@@ -1,0 +1,5 @@
+{
+  "name": "TubeFetch AI",
+  "description": "A modern YouTube video downloader interface enhanced with Gemini AI for video summarization and tag generation.",
+  "requestFramePermissions": []
+}
